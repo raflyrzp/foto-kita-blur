@@ -26,6 +26,15 @@ Sebelum mulai, laptop kamu butuh 2 aplikasi ini. Berikut cara instalnya secara d
 5. Klik **"Next"** terus-menerus tanpa perlu mengubah pengaturan apa pun sampai proses instalasi berjalan.
 6. Setelah selesai, klik **"Finish"**.
 
+### C. Cara Install VS Code (Opsional)
+Aplikasi ini berguna buat mengedit kode dengan lebih gampang. Kalau kamu cuma mau menjalankan aplikasi saja tanpa mengedit kodenya, langkah ini boleh dilewati:
+1. Buka website [code.visualstudio.com](https://code.visualstudio.com/).
+2. Klik tombol **"Download for Windows"** (atau sesuaikan dengan laptopmu).
+3. Buka file installer yang sudah terunduh.
+4. Pilih opsi **"I accept the agreement"**, lalu klik **"Next"** beberapa kali.
+5. Pada pilihan tugas tambahan (*Select Additional Tasks*), centang semua kotak yang ada (terutama *"Add to PATH"* dan opsi *"Open with Code"*), lalu klik **"Next"**.
+6. Klik **"Install"**, tunggu prosesnya, lalu klik **"Finish"**.
+
 ---
 
 ## 2. Download Kodenya
