@@ -2,7 +2,7 @@
 
 Aplikasi simpel buat nge-blur kamera laptop otomatis pas kamu nunjukkin pose Peace (✌️). Dibikin pake OpenCV sama MediaPipe.
 
-Panduan ini ditulis khusus buat anak akuntansi atau siapa pun yang belum pernah ngoding atau pegang terminal/command prompt sama sekali. Santai aja, tinggal ikuti step-by-step di bawah!
+Panduan ini ditulis khusus buat kamu yang belum pernah ngoding atau pegang terminal/command prompt sama sekali. Santai aja, tinggal ikuti step-by-step di bawah!
 
 ---
 
