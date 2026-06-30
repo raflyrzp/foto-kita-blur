@@ -6,12 +6,25 @@ Panduan ini ditulis khusus buat kamu yang belum pernah ngoding atau pegang termi
 
 ---
 
-## 1. Install Perlengkapan Perang (Cuma sekali aja)
+## 1. Install Perlengkapan (Cuma sekali aja)
 
-Sebelum mulai, laptop kamu butuh 2 aplikasi ini:
+Sebelum mulai, laptop kamu butuh 2 aplikasi ini. Berikut cara instalnya secara detail:
 
-*   **Python**: Download di [python.org](https://www.python.org/downloads/). Pas install, **wajib centang** tulisan *"Add python.exe to PATH"* di bagian bawah sebelum ngeklik Install.
-*   **Git**: Download di [git-scm.com](https://git-scm.com/downloads/). Klik Next-Next aja pas install sampai kelar.
+### A. Cara Install Python
+1. Buka website [python.org/downloads](https://www.python.org/downloads/).
+2. Klik tombol kuning besar bertuliskan **"Download Python"** untuk mengunduh installer.
+3. Buka file installer yang baru saja kamu download (biasanya ada di folder *Downloads* kamu).
+4. **⚠️ LANGKAH WAJIB:** Pada halaman pertama instalasi, lihat bagian paling bawah dan **centang** kotak kecil bertuliskan **"Add python.exe to PATH"**. Jika kamu melewatkan langkah ini, aplikasi tidak akan bisa berjalan di terminal.
+5. Setelah dicentang, klik tombol **"Install Now"** di bagian atas.
+6. Tunggu prosesnya sampai selesai, lalu klik **"Close"**.
+
+### B. Cara Install Git
+1. Buka website [git-scm.com/downloads](https://git-scm.com/downloads).
+2. Klik opsi **"Windows"** (atau sesuaikan dengan laptopmu).
+3. Pilih versi installer (misalnya klik **"64-bit Git for Windows Setup"**).
+4. Buka file installer Git yang sudah selesai di-download.
+5. Klik **"Next"** terus-menerus tanpa perlu mengubah pengaturan apa pun sampai proses instalasi berjalan.
+6. Setelah selesai, klik **"Finish"**.
 
 ---
 
